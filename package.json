@@ -1,0 +1,23 @@
+{
+  "name": "kanban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingFengHung/Kanban.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BingFengHung/Kanban/issues"
+  },
+  "homepage": "https://github.com/BingFengHung/Kanban#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
